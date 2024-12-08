@@ -1,5 +1,5 @@
-## Universal Metric Learning
-This is a code repository for universal metric learning. 
+## Unified Metric Learning
+This is a code repository for Unified metric learning. 
 
 ## Requirements
 
